@@ -17,9 +17,9 @@ The output file should contain the sorted data even in the case of errors. Howev
 <h6 align = "center"> Project start instructions </h6>
 <ol>
 	<li> The JDK package already exist, just unpack them!</li>
-	<li> Just enter: sort-it.exe -i -a out.txt in.txt (for integers ascending)
-                     sort-it.exe -s out.txt in1.txt in2.txt in3.txt (for strings ascending)
-                     sort-it.exe -d -s out.txt in1.txt in2.txt (for strings descending)</li>
+	<li> Just enter: <p align = "center"> sort-it.exe -i -a out.txt in.txt (for integers ascending)</p>
+	<p align = "center">sort-it.exe -s out.txt in1.txt in2.txt in3.txt (for strings ascending)</p>
+	<p align = "center">sort-it.exe -d -s out.txt in1.txt in2.txt (for strings descending)</li></p>
     <li>If you want to check all project, go to the src folder.</li>
 </ol>
 
